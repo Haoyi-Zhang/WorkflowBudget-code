@@ -1,0 +1,16 @@
+{
+  "suite": "two-node",
+  "cases": 2304,
+  "equivalent": 1166,
+  "inequivalent": 1138,
+  "max_states": 7,
+  "max_width": 2,
+  "failures": 0,
+  "workers": 1,
+  "wall_seconds": 0.3810004409999692,
+  "campaign_cpu_seconds": 0.3809447400000001,
+  "process_cpu_seconds": 2.134468,
+  "peak_rss_kib": 93472,
+  "cpu_cap_seconds": 35,
+  "address_space_cap_bytes": 3221225472
+}
